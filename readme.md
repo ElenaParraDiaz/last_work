@@ -3,7 +3,7 @@
 
 [Блок-схема](https://github.com/ElenaParraDiaz/last_work/blob/main/1.drawio.png)
 
-[Код](C:\Users\Елена\Desktop\last_work\Code\Program.cs)
+[Код](https://github.com/ElenaParraDiaz/last_work/blob/main/Program.cs)
 
 ## Решение
 1.Обьявлено два массива
